@@ -7,5 +7,7 @@ The dataset consists of many small pathology images for classification. Each ima
 
 Train and test data combined exhibit a size of rougly 7.76 GB which is quite large. There are 220,000 training train images and 57,000 test images, each represented in a .tif format. For evaluation we are required to create a submission file consisting of a 2-column table. First, there will be the ID of the test images and second the predicted label (1 = positive, 0 = negative).
 
+Link to Kaggle competition: https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview
+
 # 3. Solution
 Solution is provided in jupyter notebook file.
