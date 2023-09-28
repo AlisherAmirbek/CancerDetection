@@ -11,3 +11,4 @@ Link to Kaggle competition: https://www.kaggle.com/competitions/histopathologic-
 
 # 3. Solution
 Solution is provided in jupyter notebook file.
+![image](https://github.com/AlisherAmirbek/CancerDetection/assets/124807619/f9bf3ee7-1b82-448f-9660-35e3340d3049)
